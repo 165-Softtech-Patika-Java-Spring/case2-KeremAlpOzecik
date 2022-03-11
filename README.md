@@ -1,3 +1,4 @@
+# öDEVLERİ ASSIGMENT'I KABUL ETMEDEN YUKLEDİĞİM İÇİN YENİDEN YÜKLÜYORUM..
 # Case2
 
 ## Adres Kayıt Sistemi:  
